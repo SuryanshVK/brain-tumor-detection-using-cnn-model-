@@ -1,7 +1,5 @@
 # 🧠 Brain Tumor Classification using Deep Learning
 
-> **Note:** This project was originally developed by another author. It has been uploaded and updated here on my GitHub account (SuryanshVK) for learning, exploring, and showcasing deep learning concepts.
-
 🎉 I did it (somehow 😄)
 Late-night struggles, days of testing and training, hours of laughter, confusion, and countless sleepless nights — this project has been a wild ride!
 
